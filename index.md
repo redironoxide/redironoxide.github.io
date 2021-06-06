@@ -12,3 +12,6 @@ This is a collection of my coursework for HIST3814o during Summer 2021.
 |[:two:](https://github.com/redironoxide/week-two)|[:dog::dog::dog:](https://github.com/redironoxide/week-two/blob/main/reflection.md)|[:sparkles::sparkles::sparkles:](https://github.com/redironoxide/week-two/blob/main/log.md)|
 |3|TBD|TBD|
 |4|TBD|TBD|
+
+
+[:smile:](http://github.com)
