@@ -1,6 +1,6 @@
-## My Quick Static Site
+## DK's Digital History Journey 2021
 
-This is a site I build with gh-pages. **Wow**
+**Hello!** Welcome to my page ![gif](https://i.gifer.com/5Yl4.gif)
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
