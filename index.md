@@ -12,3 +12,9 @@ This is a collection of my coursework for HIST3814o during Summer 2021.
 |[2](https://github.com/redironoxide/week-two)|[reflection.md](https://github.com/redironoxide/week-two/blob/main/reflection.md)|[log.md](https://github.com/redironoxide/week-two/blob/main/log.md)|
 |[3](https://github.com/redironoxide/week-three)|[reflection.md](https://github.com/redironoxide/week-three/blob/main/reflection.md)|[log.md](https://github.com/redironoxide/week-three/blob/main/log.md)|
 |4|TBD|TBD|
+
+Look at some maps I did for week 3
+
+- [Vanilla map](https://redironoxide.github.io/web-map/)
+- [Map with control box](https://redironoxide.github.io/web-map/index2.html)
+- [Map with control box AND animation](https://redironoxide.github.io/web-map/index3.html)
