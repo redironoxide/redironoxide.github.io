@@ -1,0 +1,35 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-75.6973237, 45.4192857]
+    },
+    "properties": {
+    "Label":"Centre of our map!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.699222, 45.4275 ]
+    },
+    "properties": {
+    "Label":"Not the centre of the map "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.699234, 45.424807 ]
+    },
+    "properties": {
+    "Label":"Parliament Hill"
+    }
+  }
+]
+}
